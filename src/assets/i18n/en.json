@@ -1,0 +1,27 @@
+{
+  "home": {
+    "welcome": "Welcome to the localization application"
+  },
+  "about": {
+    "about": "About"
+  },
+  "profile": {
+    "profile": "Profile"
+  },
+  "contacts": {
+    "contact": "Contacts"
+  },
+  "notFound": {
+    "notFound": "Page Not Found"
+  },
+  "footer": {
+    "footer": "Kharkiv, Ukraine 2018"
+  },
+  "header": {
+    "brand": "Localization app",
+    "home": "Home",
+    "about": "About",
+    "profile": "Profile",
+    "contact": "Contact"
+  }
+}
